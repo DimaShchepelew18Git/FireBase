@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "544853295307",
+    "firebase_url": "https://fzdrg-857ec-default-rtdb.firebaseio.com",
+    "project_id": "fzdrg-857ec",
+    "storage_bucket": "fzdrg-857ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544853295307:android:573777e14d21b5a25c5b4e",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544853295307-bmubrv7hn164d87mkbj9s807v6hdmkdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0yJjLDGUysU8TGel5n-JDGN9lYnU64xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544853295307-bmubrv7hn164d87mkbj9s807v6hdmkdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
